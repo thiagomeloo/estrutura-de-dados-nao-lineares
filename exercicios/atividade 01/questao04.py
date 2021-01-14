@@ -1,0 +1,1 @@
+#construa uma ou mais classes para implementar uma lista ligada.
